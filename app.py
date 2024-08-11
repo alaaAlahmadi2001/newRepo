@@ -24,7 +24,7 @@ with col1:
     st.title("✨ **A Fresh Graduate's Quest for Success** ✨")
 
 with col2:
-    st.image("C:/Users/hp/Desktop/new/newRepo/job-removebg-preview.png", use_column_width=True)
+    st.image("job-removebg-preview.png", use_column_width=True)
 
 # Main content with consistent font style
 st.markdown("""
@@ -71,23 +71,23 @@ if option == "What proportion of job postings is attributed to each region withi
 
     "__Riyadh has the highest job postings, followed by Makkah and the Eastern Region, with the remaining regions showing significantly fewer opportunities.__"
 
-    st.image("C:/Users/hp/Desktop/new/newRepo/Q1_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("Q1_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 elif option == "Is there a gender preference indicated in the job postings?":
 
     "__Most job postings are open to both genders, with a significant number favoring males and fewer opportunities for females.__"
 
-    st.image("C:/Users/hp/Desktop/new/newRepo/Q2_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("Q2_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 elif option == "What is the expected salary range for fresh graduates?":
 
     "__The majority of job salaries cluster around 4,000 SAR, with fewer opportunities offering higher salaries.__"
 
-    st.image("C:/Users/hp/Desktop/new/newRepo/Q3_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("Q3_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 elif option == "Are job opportunities predominantly targeted at individuals with experience, or is there room for fresh graduates as well?":
 
     "__Over 50% of job postings are available for fresh graduates with no prior experience, making it a favorable job market for entry-level candidates.__"
 
-    st.image("C:/Users/hp/Desktop/new/newRepo/Q4_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+    st.image("Q4_hw5.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
